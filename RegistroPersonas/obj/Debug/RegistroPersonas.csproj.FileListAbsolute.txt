@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Properties.Resources.resources
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Reporte.resources
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Inicio.resources
