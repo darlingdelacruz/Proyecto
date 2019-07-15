@@ -1,2 +1,2 @@
 # Proyecto
-Registro de cedulacion JCE
+ SOFTWARE Registro de cedulacion JCE
